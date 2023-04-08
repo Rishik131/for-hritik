@@ -1,0 +1,102 @@
+[
+    {
+    "name":"Karma Ayurveda",
+    "address":"Pitampura-Delhi",
+    "rating": 4
+    },
+    {
+    "name":"Max Vets",
+    "address":"Delhi",
+    "rating": 4
+    },
+    {
+    "name":"Clove Dental",
+    "address":"Delhi",
+    "rating": 4
+    },
+    {
+    "name":"Moolchand Medcity",
+    "address":"Delhi",
+    "rating": 5
+    },
+    {
+    "name":"Indraprastha Apollo Hospital",
+    "address":"Delhi",
+    "rating": 4
+    },
+    {
+    "name":"Max Hospital",
+    "address":"Pitampura - Delhi",
+    "rating": 2
+    },
+    {
+    "name":"Fortis Escorts Hospital",
+    "address":"Malviya Nagar - Jaipur",
+    "rating": 5
+    },
+    {
+    "name":"SMS Hosipital",
+    "address":"Jaipur",
+    "rating": 5
+    },
+    {
+    "name":"Santokba Durlabhji Memorial Hospital",
+    "address":"Jaipur",
+    "rating": 5
+    },
+    {
+    "name":"Apex Hospitals",
+    "address":"Malviya Nagar - Jaipur",
+    "rating": 5
+    },
+    {
+    "name":"Candrol Cancer Treatment Center",
+    "address":"Jaipur",
+    "rating": 5
+    },
+    {
+    "name":"Healing Hands Clinic",
+    "address":"Pristyn Care - Gurgaon",
+    "rating": 4
+    },
+    {
+    "name":"Medanta Mediclinic Cybercity",
+    "address":"DLF Phase II - Gurgaon",
+    "rating": 3
+    },
+    {
+    "name":"Artemis Hospital",
+    "address":"Gurgaon",
+    "rating": 4
+    },
+    {
+    "name":"Paras Hospital",
+    "address":"Gurgaon",
+    "rating": 4
+    },
+    {
+    "name":"CP VET (Centre Point Pet Hospital Pvt Ltd )",
+    "address":"Sushant Lok I - Gurgaon",
+    "rating": 3
+    },
+    {
+    "name":"Paras HMRI Hospital",
+    "address":"Patna",
+    "rating": 2
+    },
+    {
+    "name":"Chakore Nursing Home",
+    "address":"Rajendra Nagar - Patna",
+    "rating": 5
+    },
+    {
+    "name":"Balaji Hospital",
+    "address":"Sri Krishnapuri",
+    "rating": 4
+    },
+    {
+    "name":"Netra Nidan",
+    "address":"Kankad Bagh - Patna",
+    "rating": 5
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+    "name":"Mazumdar-Shaw-Medical-Centre",
+    "address":"Bommasandra-Bangalore",
+    "rating": 4
+    },
+    {
+    "name":"Bangalore-Baptist-Hospital",
+    "address":"Hebbal-Bangalore",
+    "rating": 4
+    },
+    {
+    "name":"Aryan-Hospital",
+    "address":"Nagarbhavi-Bangalore",
+    "rating": 5
+    },
+    {
+    "name":"Apollo Hospital",
+    "address":"Bannerghatta - Bangalore",
+    "rating": 3
+    },
+    {
+    "name":"Sakra World Hospital",
+    "address":"Bangalore",
+    "rating": 2
+    },
+    {
+    "name":"Apollo Hospital",
+    "address":"Greams Road - Chennai",
+    "rating": 2
+    },
+    {
+    "name":"Miot Hospitals",
+    "address":"Manapakkam - Chennai",
+    "rating": 3
+    },
+    {
+    "name":"Prashanth Multispeciality Hospital",
+    "address":"Chetpet - Chennai",
+    "rating": 3
+    },
+    {
+    "name":"Venkataeswara Hospital",
+    "address":"Nandanam - Chennai",
+    "rating": 4
+    },
+    {
+    "name":"Vijaya Hospital",
+    "address":"Vadapalani - Chennai",
+    "rating": 2
+    },
+    {
+    "name":"Sri Ramakrishna Hospital",
+    "address":"Coimbatore",
+    "rating": 4
+    },
+    {
+    "name":"K G Hospital",
+    "address":"Coimbatore",
+    "rating": 4
+    },
+    {
+    "name":"G. Kuppuswamy Naidu Memorial Hospital",
+    "address":"Coimbatore",
+    "rating": 2
+    },
+    {
+    "name":"Kovai Medical Center and Hospital",
+    "address":"Coimbatore",
+    "rating": 2
+    },
+    {
+    "name":"Vikram ENT Hospital",
+    "address":"Coimbatore",
+    "rating": 4
+    },
+    {
+    "name":"Ernakulam Medical Centre",
+    "address":"Kochi",
+    "rating": 5
+    },
+    {
+    "name":"Sunrise Hospital",
+    "address":"Cochin",
+    "rating": 2
+    },
+    {
+    "name":"Aster Medcity",
+    "address":"Kochi",
+    "rating": 4
+    },
+    {
+    "name":"Medical Trust Hospital",
+    "address":"Cochin",
+    "rating": 2
+    },
+    {
+    "name":"Netra Nidan",
+    "address":"Bangalore",
+    "rating": 5
+    }
+]

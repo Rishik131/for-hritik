@@ -1,0 +1,102 @@
+[
+    {
+    "name":"AMRI Hospitals",
+    "address":"Salt Lake - Kolkata",
+    "rating": 4
+    },
+    {
+    "name":"Glitter Dental Clinic",
+    "address":"Kalighat - Kolkata",
+    "rating": 5
+    },
+    {
+    "name":"Ghosh Dr Sitangshu Kr Dental Clinic",
+    "address":"South - Kolkata",
+    "rating": 5
+    },
+    {
+    "name":"Great Lakes Dental Clinic And Orthodontic Care",
+    "address":"Kalighat - Kolkata",
+    "rating": 5
+    },
+    {
+    "name":"Girija Devi Orthodontic & Dental Clinic",
+    "address":"Bhowanipore - Kolkata",
+    "rating": 5
+    },
+    {
+    "name":"Partha Dental",
+    "address":"Kukatpally - Hyderabad",
+    "rating": 4
+    },
+    {
+    "name":"Prasad Hospital",
+    "address":"Kphb Colony - Hyderabad",
+    "rating": 4
+    },
+    {
+    "name":"KIMS Hospital",
+    "address":"Secunderabad - Hyderabad",
+    "rating": 3
+    },
+    {
+    "name":"Apollo Hospital",
+    "address":"Jubilee Hills - Hyderabad",
+    "rating": 2
+    },
+    {
+    "name":"Yashoda Hospital",
+    "address":"Somajiguda - Hyderabad",
+    "rating": 3
+    },
+    {
+    "name":"Rainbow Childrens Hospitals",
+    "address":"Banjara Hills - Hyderabad",
+    "rating": 3
+    },
+    {
+    "name":"The Dental Specialists",
+    "address":"Banjara Hills - Hyderabad",
+    "rating": 5
+    },
+    {
+    "name":"Fernandez Hospital",
+    "address":"Boggulkunta - Hyderabad",
+    "rating": 3
+    },
+    {
+    "name":"Hill View Hospital & Research Center",
+    "address":"Bariatu - Ranchi",
+    "rating": 5
+    },
+    {
+    "name":"Bhagwan Mahavir Medica Superspecialty Hospital",
+    "address":"Jai Prakash Nagar - Ranchi",
+    "rating": 5
+    },
+    {
+    "name":"Sourya Children Hospital & Research Center",
+    "address":"Pahartoli - Ranchi",
+    "rating": 5
+    },
+    {
+    "name":"Netram Clinic",
+    "address":"Ahirtoli - Ranchi",
+    "rating": 5
+    },
+    {
+    "name":"St.Vincent Hospital",
+    "address":"Ranchi",
+    "rating": 5
+    },
+    {
+    "name":"Chetanya Hospital",
+    "address":"Chandigarh",
+    "rating": 4
+    },
+    {
+    "name":"Navjot Nursing Home",
+    "address":"Sector 65 - Chandigarh",
+    "rating": 5
+    }
+]

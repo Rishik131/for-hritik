@@ -1,0 +1,58 @@
+.details{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    
+    align-items: flex-start;
+    align-content: flex-start;
+    overflow: auto;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    
+}
+.name{
+    display: inline-block;
+    font-weight: bold;
+    padding-top: 5px;
+}
+.address{
+    display: inline-block;
+}
+.address2{
+    display: inline-block;
+    color: grey;
+    font-style: italic;
+}
+.rating{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: flex-start;
+    overflow: auto;
+    flex-direction: row;
+}
+.star{
+    
+    color: rgb(237, 209, 0);
+}
+.card_media{
+    border-radius: 3px 3px 0 0;
+}
+.action_buttons{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: flex-start;
+    overflow: auto;
+    flex-direction: row;
+    width: 100%;
+}
+.like_buton{
+    color: red;
+}
+.dot_menu{
+    margin-left: auto;
+}

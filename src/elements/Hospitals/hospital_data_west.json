@@ -1,0 +1,102 @@
+[
+    {
+    "name":"Redcliffe Labs",
+    "address":"Mumbai",
+    "rating": 4
+    },
+    {
+    "name":"Dentzz Dental",
+    "address":"",
+    "rating": 4
+    },
+    {
+    "name":"Asian Heart Hospital",
+    "address":"Bandra East - Mumbai",
+    "rating": 4
+    },
+    {
+    "name":"My Dentist",
+    "address":"Kalighat - Kolkata",
+    "rating": 5
+    },
+    {
+    "name":"Girija Devi Orthodontic & Dental Clinic",
+    "address":"Vile Parle - Mumbai",
+    "rating": 4
+    },
+    {
+    "name":"Kokilaben Dhirubhai Ambani Hospital",
+    "address":"Andheri - Mumbai",
+    "rating": 2
+    },
+    {
+    "name":"Grace Intensive Cardiac Care Centre",
+    "address":"Margao - Goa",
+    "rating": 5
+    },
+    {
+    "name":"Galaxy Hospital",
+    "address":"Mapusa - Goa",
+    "rating": 5
+    },
+    {
+    "name":"Manguirish Clinic",
+    "address":"JSanquelim - Goa",
+    "rating": 5
+    },
+    {
+    "name":"Cattle Pound",
+    "address":"Calangute - Goa",
+    "rating": 5
+    },
+    {
+    "name":"Cottage Hospital",
+    "address":"Vasco da Gama - Goa",
+    "rating": 5
+    },
+    {
+    "name":"Healing Hands Clinic",
+    "address":"Dhole Patil Road - Pune",
+    "rating": 4
+    },
+    {
+    "name":"Ruby Hall Clinic",
+    "address":"Sassoon Road - Pune",
+    "rating": 3
+    },
+    {
+    "name":"Aditya Birla Memorial Hospital",
+    "address":"Chinchwad - Pune",
+    "rating": 4
+    },
+    {
+    "name":"Noble Hospital",
+    "address":"Hadapsar - Pune",
+    "rating": 4
+    },
+    {
+    "name":"Gupte Hospital",
+    "address":"Bhandarkar Road - Pune",
+    "rating": 3
+    },
+    {
+    "name":"Jupiter Hospital",
+    "address":"Cadbury Junction - Thane",
+    "rating": 2
+    },
+    {
+    "name":"Aditi Hospital",
+    "address":"Thane West",
+    "rating": 5
+    },
+    {
+    "name":"Abhyankar Orthopedic Hospital",
+    "address":"Dombivili East - Thane",
+    "rating": 4
+    },
+    {
+    "name":"Baba General Hospital",
+    "address":"Ambernath - Thane",
+    "rating": 5
+    }
+]
